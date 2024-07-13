@@ -11,7 +11,7 @@
 [API-doc](https://idowuseyi.github.io/hng_Team_UI/)
 
 ## LINK TO ER DESIGN
-[ER-design](https://app.eraser.io/workspace/AH1e47I3vJF432HRmHAD?elements=B_vLReOhcVOH3l-eaV0qww)
+[ER-design](https://app.eraser.io/workspace/AH1e47I3vJF432HRmHAD?origin=share)
 
 ## Full-featured Application API
 
